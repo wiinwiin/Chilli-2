@@ -107,7 +107,7 @@ export default function About() {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <div className="lg:col-span-5">
               <img 
-                src="https://github.com/wiinwiin/Chilli-2/blob/b266f9586b45736939cc764792bdbe5787bcdeac/public/Pina%20-%202.png" 
+                src="https://raw.githubusercontent.com/wiinwiin/Chilli-2/b266f9586b45736939cc764792bdbe5787bcdeac/public/Pina%20-%202.png" 
                 alt="Pina Stojko - Founder" 
                 className="w-full max-w-md mx-auto rounded-2xl shadow-xl object-cover aspect-square"
               />
